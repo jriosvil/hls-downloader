@@ -1,6 +1,7 @@
 {
   "name": "@hls-downloader/popup",
   "version": "0.0.0",
+  "type": "module",
   "private": true,
   "dependencies": {
     "@hls-downloader/core": "workspace:*",
